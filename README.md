@@ -16,6 +16,10 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
 
+  <a href="https://www.linkedin.com/in/raulguilherme" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/raulguilherme"/>
+  </a>
+
 <!--
 **raulgfc/raulgfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
