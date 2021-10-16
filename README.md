@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[raulgfc's github stats](https://github-readme-stats.vercel.app/api?username=raulgfc)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+
+
 <!--
 **raulgfc/raulgfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
