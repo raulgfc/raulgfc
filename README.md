@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 @ 🔭 I’m currently working with Data Analytics  
 
