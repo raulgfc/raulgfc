@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[raulgfc's github stats](https://github-readme-stats.vercel.app/api?username=raulgfc)
+ [raulgfc's Github](https://github.com/raulgfc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulgfc&repo=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+
+ [![Leonard's Pepa GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
 
 <!--
