@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 @ 🔭 I’m currently working with Data Analytics  
+
 @ 🌱 I’m currently learning: Python and AngularJS
-@ 💼 My tools are currently: PowerBI,SAS, MSQL, and our old friend Excel.  
-@ ✨ I already had fun with: R, C, VBA, VHDL and Arduino.
+
+@ 💼 My tools are currently: PowerBI,SAS, MSQL, and our old friend Excel
+
+@ ✨ I already had fun with: R, C, VBA, VHDL and Arduino
+
 
  [raulgfc's Github](https://github.com/raulgfc)
 
