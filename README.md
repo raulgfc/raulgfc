@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+@ 🔭 I’m currently working with Data Analytics  
+@ 🌱 I’m currently learning: Python and AngularJS
+@ 💼 My tools are currently: PowerBI,SAS, MSQL, and our old friend Excel.  
+@ ✨ I already had fun with: R, C, VBA, VHDL and Arduino.
+
  [raulgfc's Github](https://github.com/raulgfc)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulgfc&repo=raulgfc)](https://github.com/raulgfc/github-readme-stats)
-
- [![Leonard's Pepa GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+ [![raulgfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
