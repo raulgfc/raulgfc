@@ -2,9 +2,9 @@
 
 🔭 I’m currently working with Data Analytics  
 
-🌱 I’m currently learning: Python and AngularJS
+🌱 I’m currently learning: Machine Learning
 
-💼 My tools are currently: PowerBI, SAS, MSQL, and our old friend Excel
+💼 My tools are currently: Python ,PowerBI, SAS, MSQL, and our old friend Excel
 
 ✨ I already had fun with: R, C, VBA, VHDL and Arduino
 
