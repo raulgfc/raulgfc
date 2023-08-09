@@ -11,9 +11,9 @@
 
  [raulgfc's Github](https://github.com/raulgfc)
 
-<!-- [![raulgfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+ [![raulgfc's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulgfc)](https://github.com/raulgfc/github-readme-stats)
 
 
   <a href="https://www.linkedin.com/in/raulguilherme" alt="Linkedin">
